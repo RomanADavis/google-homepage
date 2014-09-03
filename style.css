@@ -1,0 +1,22 @@
+*, body {margin: 0; padding: 0, min-width: 100%;}
+ #container {display: block; position: absolute; min-height: 100%;}
+ #content {display: block; margin-bottom: 2sem;}
+ #footer {position: absolute; display: block; bottom: 0; height: 2em }
+
+p {
+	text-align: center;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+li {
+	display: inline;
+	
+}
+.right {
+	text-align: right;
+}
+
+
